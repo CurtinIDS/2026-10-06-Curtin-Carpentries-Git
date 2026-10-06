@@ -184,7 +184,7 @@ The following files are required the next few lessons.
   **Let your instructor know if you need help with this step**.
   You should end up with a new folder called **`shell-lesson-data`** on your Desktop.
 
-> ##
+> ## Note
 > If you are using windows and you have OneDrive running, then you may need to consider a different location for these files.
 > Running git inside a directory that is managed by a service like OneDrive can sometimes cause issues as the files are synchronized to the web.
 > We *highly* recommend that you unzip or move the files for this lesson into a directory that is *not* being managed by OneDrive (or DropBox etc).

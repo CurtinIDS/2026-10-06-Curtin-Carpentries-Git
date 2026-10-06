@@ -189,4 +189,4 @@ The following files are required the next few lessons.
 > Running git inside a directory that is managed by a service like OneDrive can sometimes cause issues as the files are synchronized to the web.
 > We *highly* recommend that you unzip or move the files for this lesson into a directory that is *not* being managed by OneDrive (or DropBox etc).
 > It might be a good idea to just run this in your downloads directory.
-{.callout}
+{: .callout}
